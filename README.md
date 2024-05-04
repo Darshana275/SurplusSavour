@@ -1,1 +1,2 @@
-# SurplusSavour
+SurplusSavour
+This Web Application facilitates a connection between individuals looking to donate surplus food and those in need of assistance. Donors can indicate specific time slots when surplus food will be accessible for collection. Registered users seeking assistance will receive notifications about food availability when it's ready for collection. This initiative operates on a non-profit basis, with the goal of reducing food waste and providing complimentary meals to those facing food insecurity.
